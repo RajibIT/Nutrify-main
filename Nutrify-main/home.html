@@ -6,7 +6,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap" rel="stylesheet">
         <div class="container">
             <div class="header-name">
-                <h1>Web Nutrify</h1>
+                <h1>Nutrify.me</h1>
             </div>
             <div class="header-signin">
                 <a href='/signin'><button id="signinbtn">Sign In</button></a>
